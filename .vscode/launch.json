@@ -1,0 +1,272 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch baitap27",
+            "request": "launch",
+            "mainClass": "execersie.baitap27",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap26",
+            "request": "launch",
+            "mainClass": "execersie.baitap26",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap25",
+            "request": "launch",
+            "mainClass": "execersie.baitap25",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap24",
+            "request": "launch",
+            "mainClass": "execersie.baitap24",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap23",
+            "request": "launch",
+            "mainClass": "execersie.baitap23",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap22",
+            "request": "launch",
+            "mainClass": "execersie.baitap22",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap21",
+            "request": "launch",
+            "mainClass": "execersie.baitap21",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap20",
+            "request": "launch",
+            "mainClass": "execersie.baitap20",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap19",
+            "request": "launch",
+            "mainClass": "execersie.baitap19",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap18make3",
+            "request": "launch",
+            "mainClass": "execersie.baitap18make3",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap18make2",
+            "request": "launch",
+            "mainClass": "execersie.baitap18make2",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap18",
+            "request": "launch",
+            "mainClass": "execersie.baitap18",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap17",
+            "request": "launch",
+            "mainClass": "execersie.baitap17",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap16",
+            "request": "launch",
+            "mainClass": "execersie.baitap16",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap15",
+            "request": "launch",
+            "mainClass": "execersie.baitap15",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap14",
+            "request": "launch",
+            "mainClass": "execersie.baitap14",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "execersie.test",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap13",
+            "request": "launch",
+            "mainClass": "execersie.baitap13",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap12",
+            "request": "launch",
+            "mainClass": "execersie.baitap12",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap11",
+            "request": "launch",
+            "mainClass": "execersie.baitap11",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap10",
+            "request": "launch",
+            "mainClass": "execersie.baitap10",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap9",
+            "request": "launch",
+            "mainClass": "execersie.baitap9",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap8",
+            "request": "launch",
+            "mainClass": "execersie.baitap8",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap7",
+            "request": "launch",
+            "mainClass": "execersie.baitap7",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap6",
+            "request": "launch",
+            "mainClass": "execersie.baitap6",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap5",
+            "request": "launch",
+            "mainClass": "execersie.baitap5",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap4",
+            "request": "launch",
+            "mainClass": "execersie.baitap4",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap3",
+            "request": "launch",
+            "mainClass": "execersie.baitap3",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap2",
+            "request": "launch",
+            "mainClass": "execersie.baitap2",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch baitap1",
+            "request": "launch",
+            "mainClass": "execersie.baitap1",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai14",
+            "request": "launch",
+            "mainClass": "bai14",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai13",
+            "request": "launch",
+            "mainClass": "bai13",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bai12",
+            "request": "launch",
+            "mainClass": "bai12",
+            "projectName": "Java_basic_506e8fa4"
+        },
+        {
+            "name": "g++.exe - Build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ]
+}
